@@ -1,0 +1,24 @@
+#panel 
+{
+    margin: 0 auto;
+    padding: 30px;
+    width:600px;
+    background-color: #eee;
+    
+}
+
+ #question-list
+{ 
+
+    padding:6px 5px;
+    background-color: #4e4b98;
+    border: 2px solid black;
+    color: #ffffff;
+    
+}
+
+h1
+{
+    display: flex;
+    justify-content: center;
+}  
